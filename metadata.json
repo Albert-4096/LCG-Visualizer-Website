@@ -1,0 +1,5 @@
+
+{
+  "name": "LCG Visualizer & Lab",
+  "description": "A sophisticated Linear Congruential Generator playground that analyzes parameters using the Hull-Dobell Theorem and visualizes sequences as grayscale patterns."
+}
