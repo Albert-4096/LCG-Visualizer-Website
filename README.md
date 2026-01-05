@@ -1,4 +1,4 @@
-This code avaliable in this repo is deployed at [lcg.albertg.site](https://lcg.albertg.site)
+The code avaliable in this repo is deployed at [lcg.albertg.site](https://lcg.albertg.site)
 
 This is a website that allows a user to play around with LCG formulas, compute their grayscale image (and determine if there are any recurring patterns) and verify the variables against the Hull-Dobell Theorem.
 
